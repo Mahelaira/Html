@@ -1,0 +1,23 @@
+th:hover{
+    background-color:#d84315;
+    color:#ffffff;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+td:hover{
+    background-color: #ff8052;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+th:hover{
+    background-color:#d84315;
+    color:#ffffff;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
